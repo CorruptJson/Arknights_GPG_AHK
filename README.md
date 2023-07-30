@@ -1,15 +1,16 @@
 # Arknights_GPG_AHK
 AutoHotkey Script for Arknights hotkeys on Google Play Games Beta
 
+**The hotkey buttons for the skills are only placed properly for 16:9 resolutions.** Users of other resolutions will need to edit the script and adjust the positions (see instructions on changing controls)
 
 ## Instructions
 
-### Installation:
-1. Download [Autohotkey V2.0](https://www.autohotkey.com/)
-2. Download Arknights_GPG.ahk
-3. Run the script
+### Installation
+1. Download and install [Autohotkey V2.0](https://www.autohotkey.com/)
+2. Download Arknights_GPG.ahk from the bottom of this post
+3. Run the script by opening Arknights_GPG.ahk
 
-### Changing Controls:
+### Changing Controls
 
 By default, the controls are:
 - X to pause
@@ -34,3 +35,4 @@ The numbers are the distance from the left and top of the screen as a ratio of t
 
 *(eg. 0.9, 0.1 would be 90% of the screen away from the left, 10% down from the top.)*
 
+You may need to edit these numbers if you play on resolutions other than 16:9
