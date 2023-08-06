@@ -37,7 +37,7 @@ ConvertPercent(x, y)
 x Up::ControlClick ConvertPercent(0.9338, 0.0735) ;pause button
 z Up::ControlClick ConvertPercent(0.8593, 0.0735) ;fast forward button
 c Up::ControlClick ConvertPercent(0.6510, 0.5138) ;skill button
-d Up::ControlClick ConvertPercent(0.4739, 0.3148) ;retreat button
+d Up::ControlClick ConvertPercent(0.4739, 0.3287) ;retreat button
 
 
 #HotIf
