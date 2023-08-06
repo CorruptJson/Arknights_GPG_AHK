@@ -25,7 +25,7 @@ To change the controls or add other hotkeys, edit the file with a text editor an
 ; Controls
 x::ControlClick ConvertPercent(0.9338, 0.0735) ;pause button
 z::ControlClick ConvertPercent(0.8593, 0.0735) ;fast forward button
-c::ControlClick ConvertPercent(0.6510, 0.5138) ;skill button
+c::ControlClick ConvertPercent(0.6510, 0.5694) ;skill button
 d::ControlClick ConvertPercent(0.4739, 0.3287) ;retreat button
 ```
 
